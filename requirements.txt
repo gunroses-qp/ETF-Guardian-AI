@@ -1,0 +1,11 @@
+akshare
+efinance
+pandas
+numpy
+plotly
+ta
+openai
+python-dotenv
+PyYAML
+jinja2
+markdown
